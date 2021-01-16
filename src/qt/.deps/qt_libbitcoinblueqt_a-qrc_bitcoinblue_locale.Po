@@ -1,0 +1,4 @@
+qt/qt_libbitcoinblueqt_a-qrc_bitcoinblue_locale.o: \
+ qt/qrc_bitcoinblue_locale.cpp /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
