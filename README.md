@@ -3,3 +3,6 @@ BitcoinBlue is a decentralized digital currency, peer-to-peer that enables you t
 
 # License – Much license
 BitcoinBlue Core is released under the terms of the MIT license. See COPYING for more information or see https://opensource.org/licenses/MIT.
+
+# Development and contributions – btcb developers
+Development is ongoing, and the development team, as well as other volunteers, can freely work in their own trees and submit pull requests when features or bug fixes are ready.
