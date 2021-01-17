@@ -6,3 +6,6 @@ BitcoinBlue Core is released under the terms of the MIT license. See COPYING for
 
 # Development and contributions – btcb developers
 Development is ongoing, and the development team, as well as other volunteers, can freely work in their own trees and submit pull requests when features or bug fixes are ready.
+
+# Development Process
+The master branch is meant to be stable. Development is normally done in separate branches. Tags are created to indicate new official, stable release versions of BitcoinBlue Core.
